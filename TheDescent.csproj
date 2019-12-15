@@ -49,7 +49,7 @@
     <Compile Include="InitialSkeletonCode.cs" />
     <Compile Include="ObjectOrientedSolution.cs" />
     <Compile Include="FirstLargestInt32PickerClass.cs" />
-    <Compile Include="TypicalSolution.cs" />
+    <Compile Include="TypicalSolution1.cs" />
     <Compile Include="Application.cs" />
     <Compile Include="FirstLargestInt32Picker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
