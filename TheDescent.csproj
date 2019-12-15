@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>CodinGameSolutions.Application</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -44,8 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="InitialSkeletonCode.cs" />
-    <Compile Include="OkaySolution.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="ObjectOrientedSolution.cs" />
+    <Compile Include="FirstLargestInt32PickerClass.cs" />
+    <Compile Include="TypicalSolution.cs" />
+    <Compile Include="Application.cs" />
+    <Compile Include="FirstLargestInt32Picker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

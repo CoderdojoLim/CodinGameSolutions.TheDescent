@@ -10,7 +10,7 @@
 	 **/
 	class InitialSkeletonCode
 	{
-		static void Main(String[] args)
+		public void Main(String[] args)
 		{
 			// game loop
 			while (true)
